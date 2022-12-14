@@ -21,6 +21,10 @@ public class Base_NeoStox {
         Reporter.log("Launching Browser...",true);
         
    }
+   
+   
+   
+   
    public void closingBrowser(WebDriver driver)
   {   utilityNeostoxusingPropertyfile.wait(driver, 1000);
        Reporter.log("Closing Browser...",true);
