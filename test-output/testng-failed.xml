@@ -9,6 +9,7 @@
           <include name="LaunchingBrowser"/>
           <include name="loginPage"/>
           <include name="validation"/>
+          <include name="validationUserId"/>
           <include name="ClosingBrowser"/>
         </methods>
       </class> <!-- NeoStox_TestClasses.multipleTCs -->

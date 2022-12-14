@@ -19,9 +19,8 @@ import NeoStox_POM.SignInButtonPage;
 import NeoStox_Utility.utilityNeostoxusingPropertyfile;
 
 public class multipleTCs extends Base_NeoStox
-{  
-	  
-	  NeoStoxLoginPage login;
+{    
+     NeoStoxLoginPage login;
 	  PasscodePage psc;
 	  HomePage HP;
 	  SignInButtonPage signIn;
