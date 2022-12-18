@@ -29,7 +29,12 @@ public class multipleTCs extends Base_NeoStox
 	@BeforeClass
 	public void LaunchingBrowser() throws InterruptedException, IOException
 	{ 
+<<<<<<< HEAD
+		
+	 LaunchBrowser();   // method from base class
+=======
 	  LaunchBrowser();   // method from base class
+>>>>>>> 4b4586b2d2f8b00cef3e144ecb9775e5e004abf5
 	  
 	  login=new NeoStoxLoginPage(driver);
 	  psc=new PasscodePage(driver);
