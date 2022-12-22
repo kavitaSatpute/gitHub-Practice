@@ -22,6 +22,9 @@ public class Base_NeoStox {
         
    }
    
+	
+	
+	
    
    
    public void closingBrowser(WebDriver driver)
